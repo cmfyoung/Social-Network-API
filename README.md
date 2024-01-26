@@ -76,7 +76,7 @@
   ---
 
   ## Contact 
-  Github Repository : github.com/cmfyoung/Social-Network-API
+  Github Repository : www.github.com/cmfyoung/Social-Network-API
 
 
   Website URL : N/A
