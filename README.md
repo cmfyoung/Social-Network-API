@@ -82,7 +82,7 @@
   Github Repository : www.github.com/cmfyoung/Social-Network-API
 
 
-  Website URL : N/A
+  Video Walkthrough Link : https://drive.google.com/file/d/1ZnJBRow5XhfCzjDwavhP7PzKvbv33oxp/view
 
 
   Author: Christopher Young
