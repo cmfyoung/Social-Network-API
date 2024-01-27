@@ -57,8 +57,11 @@
   
   Start the application by running `npm start` from the command line. Use MongoDB to view the Database and Insomnia to test the API routes. 
 
-
+![Screen Shot 2024-01-26 at 7 25 48 PM](https://github.com/cmfyoung/Social-Network-API/assets/150183426/da656b2d-0212-4895-ae1c-db51f5fe357c)
+![Screen Shot 2024-01-26 at 7 26 05 PM](https://github.com/cmfyoung/Social-Network-API/assets/150183426/9c7db2e7-c72a-43e5-8b87-d3b6c8f376ed)
+  
   ## Tests
+
   
   N/A
 
