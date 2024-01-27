@@ -1,5 +1,7 @@
+// Import express router 
 const router = require('express').Router();
 
+// Import thought controller methods from the controllers
 const {
     getThoughts,
     getSingleThought,
@@ -26,4 +28,5 @@ router.route('/:thoughtId/reactions').post(addReaction);
 // /api/users/:thoughtId/reactions/:reactionId
 router.route('/:thoughtId/reactions/:reactionId').delete(removeReaction);
 
+// Export the router
 module.exports = router;

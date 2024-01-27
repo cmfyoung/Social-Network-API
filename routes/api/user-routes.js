@@ -1,5 +1,7 @@
+// Import express router 
 const router = require('express').Router();
 
+// Import user controller methods from the controllers
 const {
     getUsers,
     getSingleUser,
@@ -19,5 +21,5 @@ router.route('/:userId').get(getSingleUser).delete(deleteUser).put(updateUser);
 // /api/users/:userId/friends/:friendId
 router.route('/:userId/friends/:friendId').post(addFriend).delete(removeFriend);
 
-
+// Export the router
 module.exports = router;
